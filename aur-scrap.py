@@ -8,7 +8,6 @@ import urllib.error
 import urllib.request
 from os import listdir
 from os.path import isfile, join
-from pprint import pprint
 
 
 def open_main_json_file():
@@ -74,7 +73,8 @@ def match_versions(datafile):
     # Check whether 'version' and 'aur_version' is same or not.
     for key in datafile.keys():
         if datafile[key]['version'] != datafile[key]['aur_version']:
-            pprint(datafile[key])  # print particular info under this key.
+            # pprint(datafile[key])  # print particular info under this key.
+            print(json.dumps(datafile[key], indent=4, sort_keys=True))
         else:
             pass
     return datafile
@@ -108,7 +108,6 @@ def main():
         print("File Updated From API\n")
         main()
     elif c is 3:
-        print()
         datafile: dict = open_main_json_file()
         update_main_json_file(match_versions(datafile))
         main()
@@ -127,4 +126,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print()
+        sys.exit(1)

@@ -21,7 +21,7 @@
     "aur_link": "https://aur.archlinux.org/packages/gdm3setup/",
     "aur_name": "gdm3setup",
     "aur_version": "20150813-2",
-    "version": "utils-20150507-1"
+    "version": "20150813-2"
   },
   "gdm3setup-utils": {
     "aur_link": "https://aur.archlinux.org/packages/gdm3setup-utils/",
