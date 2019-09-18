@@ -17,7 +17,7 @@ class GitWork:
                 magpie.system(gitRemove)
             # if x is not 0:
             #     print(Fore.GREEN + "\nRemoving files...\n" + Style.RESET_ALL)
-            # magpie.system('rm -rf x86_64/magpieos.*.tar.xz.old')
+            magpie.system('rm -rf x86_64/magpieos.*.tar.xz.old')
             if x is not 0:
                 print(Fore.GREEN + "\nCreating new arch repository...\n" + Style.RESET_ALL)
             magpie.system('repo-add x86_64/magpieos.db.tar.xz x86_64/*.pkg.tar.xz')
