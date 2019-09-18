@@ -1,0 +1,152 @@
+{
+  "aic94xx-firmware": {
+    "aur_link": "https://aur.archlinux.org/packages/aic94xx-firmware/",
+    "aur_name": "aic94xx-firmware",
+    "aur_version": "30-9",
+    "version": "30-9"
+  },
+  "ckbcomp": {
+    "aur_link": "https://aur.archlinux.org/packages/ckbcomp/",
+    "aur_name": "ckbcomp",
+    "aur_version": "1.193-1",
+    "version": "1.193-1"
+  },
+  "fetchmirrors": {
+    "aur_link": "https://aur.archlinux.org/packages/fetchmirrors/",
+    "aur_name": "fetchmirrors",
+    "aur_version": "0.6-3",
+    "version": "1.0-1"
+  },
+  "gdm3setup": {
+    "aur_link": "https://aur.archlinux.org/packages/gdm3setup/",
+    "aur_name": "gdm3setup",
+    "aur_version": "20150813-2",
+    "version": "utils-20150507-1"
+  },
+  "gdm3setup-utils": {
+    "aur_link": "https://aur.archlinux.org/packages/gdm3setup-utils/",
+    "aur_name": "gdm3setup-utils",
+    "aur_version": "20150507-1",
+    "version": "20150507-1"
+  },
+  "mirrorlist-manager": {
+    "aur_link": "https://aur.archlinux.org/packages/mirrorlist-manager/",
+    "aur_name": "mirrorlist-manager",
+    "aur_version": "1.3-1",
+    "version": "1.3-1"
+  },
+  "mkinitcpio-numlock": {
+    "aur_link": "https://aur.archlinux.org/packages/mkinitcpio-numlock/",
+    "aur_name": "mkinitcpio-numlock",
+    "aur_version": "1.0.3-1",
+    "version": "1.0.3-1"
+  },
+  "mkinitcpio-openswap": {
+    "aur_link": "https://aur.archlinux.org/packages/mkinitcpio-openswap/",
+    "aur_name": "mkinitcpio-openswap",
+    "aur_version": "0.1.0-3",
+    "version": "0.1.0-3"
+  },
+  "openbangla-keyboard": {
+    "aur_link": "https://aur.archlinux.org/packages/openbangla-keyboard/",
+    "aur_name": "openbangla-keyboard",
+    "aur_version": "1.5.1-1",
+    "version": "1.5.1-1"
+  },
+  "osx-arc-darker": {
+    "aur_link": "https://aur.archlinux.org/packages/osx-arc-darker/",
+    "aur_name": "osx-arc-darker",
+    "aur_version": "1.4.7-2",
+    "version": "1.4.7-2"
+  },
+  "osx-arc-shadow": {
+    "aur_link": "https://aur.archlinux.org/packages/osx-arc-shadow/",
+    "aur_name": "osx-arc-shadow",
+    "aur_version": "1.4.7-2",
+    "version": "1.4.7-2"
+  },
+  "osx-arc-white": {
+    "aur_link": "https://aur.archlinux.org/packages/osx-arc-white/",
+    "aur_name": "osx-arc-white",
+    "aur_version": "1.4.7-2",
+    "version": "1.4.7-2"
+  },
+  "package-query": {
+    "aur_link": "https://aur.archlinux.org/packages/package-query/",
+    "aur_name": "package-query",
+    "aur_version": "1.9-3",
+    "version": "1.9-3"
+  },
+  "pamac": {
+    "aur_link": "https://aur.archlinux.org/packages/pamac-aur/",
+    "aur_name": "pamac-aur",
+    "aur_version": "8.0.4-2",
+    "version": "8.0.4-2"
+  },
+  "paper-icon-theme": {
+    "aur_link": "https://aur.archlinux.org/packages/paper-icon-theme/",
+    "aur_name": "paper-icon-theme",
+    "aur_version": "1.5.0-2",
+    "version": "1.5.0-2"
+  },
+  "qogir-gtk-theme-git": {
+    "aur_link": "https://aur.archlinux.org/packages/qogir-gtk-theme-git/",
+    "aur_name": "qogir-gtk-theme-git",
+    "aur_version": "2019.05.03.18.gbefadd7-1",
+    "version": "2019.05.03.21.g4bfd233-1"
+  },
+  "sublime-text-dev": {
+    "aur_link": "https://aur.archlinux.org/packages/sublime-text-dev/",
+    "aur_name": "sublime-text-dev",
+    "aur_version": "3.3207-1",
+    "version": "3.3207-1"
+  },
+  "ttf-freebanglafont": {
+    "aur_link": "https://aur.archlinux.org/packages/ttf-freebanglafont/",
+    "aur_name": "ttf-freebanglafont",
+    "aur_version": "20130212-3",
+    "version": "20130212-3"
+  },
+  "wd719x-firmware": {
+    "aur_link": "https://aur.archlinux.org/packages/wd719x-firmware/",
+    "aur_name": "wd719x-firmware",
+    "aur_version": "1-4",
+    "version": "1-4"
+  },
+  "woeusb": {
+    "aur_link": "https://aur.archlinux.org/packages/woeusb/",
+    "aur_name": "woeusb",
+    "aur_version": "3.3.0-2",
+    "version": "3.3.0-2"
+  },
+  "xcursor-breeze": {
+    "aur_link": "https://aur.archlinux.org/packages/xcursor-breeze/",
+    "aur_name": "xcursor-breeze",
+    "aur_version": "1:5.16.4-1",
+    "version": "1:5.16.4-1"
+  },
+  "xfce-terminal-onedark": {
+    "aur_link": "https://aur.archlinux.org/packages/xfce-terminal-onedark/",
+    "aur_name": "xfce-terminal-onedark",
+    "aur_version": "1.0-1",
+    "version": "1.0-1"
+  },
+  "yay": {
+    "aur_link": "https://aur.archlinux.org/packages/yay/",
+    "aur_name": "yay",
+    "aur_version": "9.2.1-1",
+    "version": "9.2.1-1"
+  },
+  "zd1211-firmware": {
+    "aur_link": "https://aur.archlinux.org/packages/zd1211-firmware/",
+    "aur_name": "zd1211-firmware",
+    "aur_version": "1.5-3",
+    "version": "1.5-3"
+  },
+  "zramswap": {
+    "aur_link": "https://aur.archlinux.org/packages/zramswap/",
+    "aur_name": "zramswap",
+    "aur_version": "4-1",
+    "version": "4-1"
+  }
+}
