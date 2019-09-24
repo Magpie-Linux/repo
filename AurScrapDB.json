@@ -101,6 +101,12 @@
     "aur_version": "3.3207-1",
     "version": "3.3207-1"
   },
+  "ttf-cascadia-code": {
+    "aur_link": "https://aur.archlinux.org/packages/ttf-cascadia-code/",
+    "aur_name": "ttf-cascadia-code",
+    "aur_version": "1909.16-1",
+    "version": "1909.16-1"
+  },
   "ttf-freebanglafont": {
     "aur_link": "https://aur.archlinux.org/packages/ttf-freebanglafont/",
     "aur_name": "ttf-freebanglafont",
