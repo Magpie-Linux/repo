@@ -99,7 +99,7 @@
     "aur_link": "https://aur.archlinux.org/packages/sublime-text-dev/",
     "aur_name": "sublime-text-dev",
     "aur_version": "3.3207-1",
-    "version": "3.3207-1"
+    "version": "3.3211-1"
   },
   "ttf-cascadia-code": {
     "aur_link": "https://aur.archlinux.org/packages/ttf-cascadia-code/",
@@ -116,8 +116,8 @@
   "wd719x-firmware": {
     "aur_link": "https://aur.archlinux.org/packages/wd719x-firmware/",
     "aur_name": "wd719x-firmware",
-    "aur_version": "1-4",
-    "version": "1-4"
+    "aur_version": "1-5",
+    "version": "1-5"
   },
   "woeusb": {
     "aur_link": "https://aur.archlinux.org/packages/woeusb/",
