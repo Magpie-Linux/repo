@@ -140,8 +140,8 @@
   "yay": {
     "aur_link": "https://aur.archlinux.org/packages/yay/",
     "aur_name": "yay",
-    "aur_version": "9.3.1-1",
-    "version": "9.3.1-1"
+    "aur_version": "9.3.3-1",
+    "version": "9.3.3-1"
   },
   "zd1211-firmware": {
     "aur_link": "https://aur.archlinux.org/packages/zd1211-firmware/",
