@@ -80,8 +80,8 @@
   "pamac": {
     "aur_link": "https://aur.archlinux.org/packages/pamac-aur/",
     "aur_name": "pamac-aur",
-    "aur_version": "8.0.4-2",
-    "version": "8.0.4-2"
+    "aur_version": "9.0.0-1",
+    "version": "9.0.0-1"
   },
   "paper-icon-theme": {
     "aur_link": "https://aur.archlinux.org/packages/paper-icon-theme/",
@@ -100,12 +100,6 @@
     "aur_name": "sublime-text-dev",
     "aur_version": "3.3211-1",
     "version": "3.3211-1"
-  },
-  "ttf-cascadia-code": {
-    "aur_link": "https://aur.archlinux.org/packages/ttf-cascadia-code/",
-    "aur_name": "ttf-cascadia-code",
-    "aur_version": "1910.04-1",
-    "version": "1910.04-1"
   },
   "ttf-freebanglafont": {
     "aur_link": "https://aur.archlinux.org/packages/ttf-freebanglafont/",
