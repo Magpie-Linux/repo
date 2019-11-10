@@ -80,8 +80,8 @@
   "pamac": {
     "aur_link": "https://aur.archlinux.org/packages/pamac-aur/",
     "aur_name": "pamac-aur",
-    "aur_version": "9.0.2-1",
-    "version": "9.0.2-1"
+    "aur_version": "9.1.0-1",
+    "version": "9.1.0-1"
   },
   "paper-icon-theme": {
     "aur_link": "https://aur.archlinux.org/packages/paper-icon-theme/",
