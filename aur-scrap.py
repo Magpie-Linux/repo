@@ -95,32 +95,32 @@ def main():
     print("\t6. Exit")
     c: int = int(input("Enter Your Choice: "))
 
-    if c is 1:
+    if c == 1:
         print()
         datafile: dict = open_main_json_file()
         update_main_json_file(update_local(datafile))
         print("File Updated Locally\n")
         main()
-    elif c is 2:
+    elif c == 2:
         print()
         datafile: dict = open_main_json_file()
         update_main_json_file(update_from_api(datafile))
         print("File Updated From API\n")
         main()
-    elif c is 3:
+    elif c == 3:
         datafile: dict = open_main_json_file()
         update_main_json_file(match_versions(datafile))
         main()
-    elif c is 4:
+    elif c == 4:
         print()
         do_everything()
         print("Everything Updated!\n")
         main()
-    elif c is 5:
+    elif c == 5:
         os.system('clear')
         print("\nCleared\n")
         main()
-    elif c is 6:
+    elif c == 6:
         print("\nExited")
         sys.exit(0)
 
