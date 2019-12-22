@@ -146,7 +146,7 @@
   "zramswap": {
     "aur_link": "https://aur.archlinux.org/packages/zramswap/",
     "aur_name": "zramswap",
-    "aur_version": "4-1",
-    "version": "4-1"
+    "aur_version": "5-1",
+    "version": "5-1"
   }
 }
