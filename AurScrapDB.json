@@ -93,7 +93,7 @@
     "aur_link": "https://aur.archlinux.org/packages/qogir-gtk-theme-git/",
     "aur_name": "qogir-gtk-theme-git",
     "aur_version": "2019.05.03.18.gbefadd7-1",
-    "version": "2019.10.25.9.gb207883-1"
+    "version": "2019.10.25.11.gb0e1162-2"
   },
   "sublime-text-dev": {
     "aur_link": "https://aur.archlinux.org/packages/sublime-text-dev/",
