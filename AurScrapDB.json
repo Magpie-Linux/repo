@@ -53,12 +53,6 @@
     "aur_version": "1.5.1-1",
     "version": "1.5.1-1"
   },
-  "osx-arc-darker": {
-    "aur_link": "https://aur.archlinux.org/packages/osx-arc-darker/",
-    "aur_name": "osx-arc-darker",
-    "aur_version": "1.4.7-2",
-    "version": "1.4.7-2"
-  },
   "osx-arc-shadow": {
     "aur_link": "https://aur.archlinux.org/packages/osx-arc-shadow/",
     "aur_name": "osx-arc-shadow",
