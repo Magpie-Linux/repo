@@ -74,8 +74,8 @@
   "pamac": {
     "aur_link": "https://aur.archlinux.org/packages/pamac-aur/",
     "aur_name": "pamac-aur",
-    "aur_version": "9.3.0-1",
-    "version": "9.3.0-1"
+    "aur_version": "9.3.0-2",
+    "version": "9.3.0-2"
   },
   "paper-icon-theme": {
     "aur_link": "https://aur.archlinux.org/packages/paper-icon-theme/",
@@ -86,7 +86,7 @@
   "qogir-gtk-theme-git": {
     "aur_link": "https://aur.archlinux.org/packages/qogir-gtk-theme-git/",
     "aur_name": "qogir-gtk-theme-git",
-    "aur_version": "2019.05.03.18.gbefadd7-1",
+    "aur_version": "2019.10.25.r12.gde987de-1",
     "version": "2019.10.25.11.gb0e1162-2"
   },
   "sublime-text-dev": {
