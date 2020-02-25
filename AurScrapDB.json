@@ -110,8 +110,8 @@
   "woeusb": {
     "aur_link": "https://aur.archlinux.org/packages/woeusb/",
     "aur_name": "woeusb",
-    "aur_version": "3.3.0-2",
-    "version": "3.3.0-2"
+    "aur_version": "3.3.1-1",
+    "version": "3.3.1-1"
   },
   "xcursor-breeze": {
     "aur_link": "https://aur.archlinux.org/packages/xcursor-breeze/",
