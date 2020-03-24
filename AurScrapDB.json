@@ -74,8 +74,8 @@
   "pamac": {
     "aur_link": "https://aur.archlinux.org/packages/pamac-aur/",
     "aur_name": "pamac-aur",
-    "aur_version": "9.3.94-2",
-    "version": "9.3.94-2"
+    "aur_version": "9.4.0-1",
+    "version": "9.4.0-1"
   },
   "paper-icon-theme": {
     "aur_link": "https://aur.archlinux.org/packages/paper-icon-theme/",
@@ -116,8 +116,8 @@
   "xcursor-breeze": {
     "aur_link": "https://aur.archlinux.org/packages/xcursor-breeze/",
     "aur_name": "xcursor-breeze",
-    "aur_version": "1:5.16.4-1",
-    "version": "1:5.16.4-1"
+    "aur_version": "1:5.18.3-1",
+    "version": "1:5.18.3-1"
   },
   "xfce-terminal-onedark": {
     "aur_link": "https://aur.archlinux.org/packages/xfce-terminal-onedark/",
