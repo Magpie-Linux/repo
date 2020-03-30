@@ -8,8 +8,8 @@
   "ckbcomp": {
     "aur_link": "https://aur.archlinux.org/packages/ckbcomp/",
     "aur_name": "ckbcomp",
-    "aur_version": "1.194-1",
-    "version": "1.194-1"
+    "aur_version": "1.195-1",
+    "version": "1.195-1"
   },
   "fetchmirrors": {
     "aur_link": "https://aur.archlinux.org/packages/fetchmirrors/",
