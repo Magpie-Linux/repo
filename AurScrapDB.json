@@ -74,8 +74,8 @@
   "pamac": {
     "aur_link": "https://aur.archlinux.org/packages/pamac-aur/",
     "aur_name": "pamac-aur",
-    "aur_version": "9.4.0-6",
-    "version": "9.4.0-6"
+    "aur_version": "9.4.1-1",
+    "version": "9.4.1-1"
   },
   "paper-icon-theme": {
     "aur_link": "https://aur.archlinux.org/packages/paper-icon-theme/",
