@@ -74,8 +74,8 @@
   "pamac": {
     "aur_link": "https://aur.archlinux.org/packages/pamac-aur/",
     "aur_name": "pamac-aur",
-    "aur_version": "9.4.1-1",
-    "version": "9.4.1-1"
+    "aur_version": "9.4.2-1",
+    "version": "9.4.2-1"
   },
   "paper-icon-theme": {
     "aur_link": "https://aur.archlinux.org/packages/paper-icon-theme/",
@@ -104,8 +104,8 @@
   "wd719x-firmware": {
     "aur_link": "https://aur.archlinux.org/packages/wd719x-firmware/",
     "aur_name": "wd719x-firmware",
-    "aur_version": "1-5",
-    "version": "1-5"
+    "aur_version": "1-6",
+    "version": "1-6"
   },
   "woeusb": {
     "aur_link": "https://aur.archlinux.org/packages/woeusb/",
